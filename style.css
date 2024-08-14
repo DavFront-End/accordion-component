@@ -150,4 +150,9 @@ body {
   .acordion-content h3 {
     font-size: 0.8rem;
   }
+
+  .acordion-details {
+    width: 200px;
+    font-size: .9rem;
+  }
 }
